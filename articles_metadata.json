@@ -1,0 +1,912 @@
+[
+  {
+    "slug": "public-liability-insurance-cost",
+    "title": "Public Liability Insurance Cost UK",
+    "keyword": "Public Liability Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "public-liability-insurance",
+      "public-liability-insurance-quote",
+      "public-liability-insurance-coverage",
+      "public-liability-insurance-requirements",
+      "best-public-liability-insurance",
+      "public-vs-professional-indemnity"
+    ]
+  },
+  {
+    "slug": "public-liability-insurance-quote",
+    "title": "Public Liability Insurance Quote UK",
+    "keyword": "Public Liability Insurance Quote",
+    "tier": "A",
+    "cluster": [
+      "public-liability-insurance",
+      "public-liability-insurance-cost",
+      "best-public-liability-insurance",
+      "public-liability-insurance-coverage",
+      "tradesman-insurance-quote",
+      "business-insurance-quote"
+    ]
+  },
+  {
+    "slug": "professional-indemnity-insurance-cost",
+    "title": "Professional Indemnity Insurance Cost UK",
+    "keyword": "Professional Indemnity Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "professional-indemnity-insurance",
+      "professional-indemnity-insurance-quote",
+      "best-professional-indemnity-insurance",
+      "professional-indemnity-insurance-requirements",
+      "public-vs-professional-indemnity",
+      "business-insurance-cost"
+    ]
+  },
+  {
+    "slug": "professional-indemnity-insurance-quote",
+    "title": "Professional Indemnity Insurance Quote UK",
+    "keyword": "Professional Indemnity Insurance Quote",
+    "tier": "A",
+    "cluster": [
+      "professional-indemnity-insurance",
+      "professional-indemnity-insurance-cost",
+      "best-professional-indemnity-insurance",
+      "business-insurance-quote",
+      "contractor-insurance",
+      "sole-trader-insurance"
+    ]
+  },
+  {
+    "slug": "employers-liability-insurance-cost",
+    "title": "Employers' Liability Insurance Cost UK",
+    "keyword": "Employers Liability Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "employers-liability-insurance",
+      "employers-liability-insurance-requirements",
+      "employers-liability-vs-public-liability",
+      "small-business-insurance-cost",
+      "business-insurance-cost",
+      "public-liability-insurance-cost"
+    ]
+  },
+  {
+    "slug": "best-public-liability-insurance",
+    "title": "Best Public Liability Insurance UK",
+    "keyword": "Best Public Liability Insurance UK",
+    "tier": "A",
+    "cluster": [
+      "public-liability-insurance",
+      "public-liability-insurance-cost",
+      "public-liability-insurance-quote",
+      "public-liability-insurance-coverage",
+      "tradesman-insurance",
+      "business-insurance"
+    ]
+  },
+  {
+    "slug": "best-professional-indemnity-insurance",
+    "title": "Best Professional Indemnity Insurance UK",
+    "keyword": "Best Professional Indemnity Insurance UK",
+    "tier": "A",
+    "cluster": [
+      "professional-indemnity-insurance",
+      "professional-indemnity-insurance-cost",
+      "public-vs-professional-indemnity",
+      "contractor-insurance",
+      "small-business-insurance",
+      "best-business-insurance"
+    ]
+  },
+  {
+    "slug": "tradesman-insurance-cost",
+    "title": "Tradesman Insurance Cost UK",
+    "keyword": "Tradesman Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "tradesman-insurance",
+      "tradesman-insurance-quote",
+      "best-tradesman-insurance",
+      "tradesman-insurance-coverage",
+      "public-liability-insurance-cost",
+      "employers-liability-insurance-cost"
+    ]
+  },
+  {
+    "slug": "tradesman-insurance-quote",
+    "title": "Tradesman Insurance Quote UK",
+    "keyword": "Tradesman Insurance Quote",
+    "tier": "A",
+    "cluster": [
+      "tradesman-insurance",
+      "tradesman-insurance-cost",
+      "best-tradesman-insurance",
+      "builder-insurance",
+      "plumber-insurance",
+      "electrician-insurance"
+    ]
+  },
+  {
+    "slug": "best-tradesman-insurance",
+    "title": "Best Tradesman Insurance UK",
+    "keyword": "Best Tradesman Insurance UK",
+    "tier": "A",
+    "cluster": [
+      "tradesman-insurance",
+      "tradesman-insurance-cost",
+      "tradesman-insurance-quote",
+      "tradesman-insurance-coverage",
+      "public-liability-insurance",
+      "employers-liability-insurance"
+    ]
+  },
+  {
+    "slug": "contractor-insurance-cost",
+    "title": "Contractor Insurance Cost UK",
+    "keyword": "Contractor Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "contractor-insurance",
+      "contractor-insurance-requirements",
+      "business-insurance-cost",
+      "professional-indemnity-insurance-cost",
+      "public-liability-insurance-cost",
+      "small-business-insurance-cost"
+    ]
+  },
+  {
+    "slug": "small-business-insurance-cost",
+    "title": "Small Business Insurance Cost UK",
+    "keyword": "Small Business Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "small-business-insurance",
+      "business-insurance",
+      "business-insurance-cost",
+      "public-liability-insurance-cost",
+      "employers-liability-insurance-cost",
+      "shop-insurance-cost"
+    ]
+  },
+  {
+    "slug": "business-insurance-cost",
+    "title": "Business Insurance Cost UK",
+    "keyword": "Business Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "business-insurance",
+      "business-insurance-quote",
+      "small-business-insurance",
+      "commercial-insurance",
+      "public-liability-insurance-cost",
+      "professional-indemnity-insurance-cost"
+    ]
+  },
+  {
+    "slug": "business-insurance-quote",
+    "title": "Business Insurance Quote UK",
+    "keyword": "Business Insurance Quote UK",
+    "tier": "A",
+    "cluster": [
+      "business-insurance",
+      "business-insurance-cost",
+      "small-business-insurance",
+      "commercial-insurance",
+      "public-liability-insurance-quote",
+      "tradesman-insurance-quote"
+    ]
+  },
+  {
+    "slug": "best-business-insurance",
+    "title": "Best Business Insurance UK",
+    "keyword": "Best Business Insurance UK",
+    "tier": "A",
+    "cluster": [
+      "business-insurance",
+      "business-insurance-cost",
+      "small-business-insurance",
+      "commercial-insurance",
+      "best-public-liability-insurance",
+      "best-professional-indemnity-insurance"
+    ]
+  },
+  {
+    "slug": "plumber-insurance-cost",
+    "title": "Plumber Insurance Cost UK",
+    "keyword": "Plumber Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "plumber-insurance",
+      "plumber-insurance-quote",
+      "best-plumber-insurance",
+      "plumber-insurance-requirements",
+      "tradesman-insurance-cost",
+      "public-liability-insurance-cost"
+    ]
+  },
+  {
+    "slug": "plumber-insurance-quote",
+    "title": "Plumber Insurance Quote UK",
+    "keyword": "Plumber Insurance Quote UK",
+    "tier": "A",
+    "cluster": [
+      "plumber-insurance",
+      "plumber-insurance-cost",
+      "best-plumber-insurance",
+      "tradesman-insurance-quote",
+      "public-liability-insurance-quote",
+      "business-insurance-quote"
+    ]
+  },
+  {
+    "slug": "best-plumber-insurance",
+    "title": "Best Plumber Insurance UK",
+    "keyword": "Best Plumber Insurance UK",
+    "tier": "A",
+    "cluster": [
+      "plumber-insurance",
+      "plumber-insurance-cost",
+      "tradesman-insurance",
+      "best-tradesman-insurance",
+      "public-liability-insurance",
+      "handyman-insurance"
+    ]
+  },
+  {
+    "slug": "electrician-insurance-cost",
+    "title": "Electrician Insurance Cost UK",
+    "keyword": "Electrician Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "electrician-insurance",
+      "electrician-insurance-quote",
+      "best-electrician-insurance",
+      "electrician-insurance-requirements",
+      "tradesman-insurance-cost",
+      "public-liability-insurance-cost"
+    ]
+  },
+  {
+    "slug": "electrician-insurance-quote",
+    "title": "Electrician Insurance Quote UK",
+    "keyword": "Electrician Insurance Quote UK",
+    "tier": "A",
+    "cluster": [
+      "electrician-insurance",
+      "electrician-insurance-cost",
+      "best-electrician-insurance",
+      "tradesman-insurance-quote",
+      "business-insurance-quote",
+      "contractor-insurance"
+    ]
+  },
+  {
+    "slug": "best-electrician-insurance",
+    "title": "Best Electrician Insurance UK",
+    "keyword": "Best Electrician Insurance UK",
+    "tier": "A",
+    "cluster": [
+      "electrician-insurance",
+      "electrician-insurance-cost",
+      "tradesman-insurance",
+      "best-tradesman-insurance",
+      "public-liability-insurance",
+      "contractor-insurance"
+    ]
+  },
+  {
+    "slug": "shop-insurance-cost",
+    "title": "Shop Insurance Cost UK",
+    "keyword": "Shop Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "shop-insurance",
+      "retail-insurance",
+      "commercial-property-insurance",
+      "business-interruption-insurance",
+      "public-liability-insurance-cost",
+      "commercial-insurance"
+    ]
+  },
+  {
+    "slug": "pub-insurance-cost",
+    "title": "Pub Insurance Cost UK",
+    "keyword": "Pub Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "pub-insurance",
+      "restaurant-insurance",
+      "commercial-property-insurance",
+      "business-interruption-insurance",
+      "public-liability-insurance-cost",
+      "employers-liability-insurance-cost"
+    ]
+  },
+  {
+    "slug": "restaurant-insurance-cost",
+    "title": "Restaurant Insurance Cost UK",
+    "keyword": "Restaurant Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "restaurant-insurance",
+      "pub-insurance",
+      "retail-insurance",
+      "commercial-property-insurance",
+      "public-liability-insurance-cost",
+      "business-interruption-insurance"
+    ]
+  },
+  {
+    "slug": "landlord-insurance-cost",
+    "title": "Landlord Insurance Cost UK",
+    "keyword": "Landlord Insurance Cost UK",
+    "tier": "A",
+    "cluster": [
+      "landlord-insurance",
+      "best-landlord-insurance",
+      "commercial-landlord-insurance",
+      "commercial-property-insurance",
+      "public-liability-insurance-cost",
+      "building-insurance"
+    ]
+  },
+  {
+    "slug": "best-landlord-insurance",
+    "title": "Best Landlord Insurance UK",
+    "keyword": "Best Landlord Insurance UK",
+    "tier": "A",
+    "cluster": [
+      "landlord-insurance",
+      "landlord-insurance-cost",
+      "commercial-landlord-insurance",
+      "commercial-property-insurance",
+      "public-liability-insurance",
+      "best-business-insurance"
+    ]
+  },
+  {
+    "slug": "public-liability-insurance",
+    "title": "Public Liability Insurance UK",
+    "keyword": "Public Liability Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "public-liability-insurance-cost",
+      "public-liability-insurance-quote",
+      "public-liability-insurance-coverage",
+      "public-liability-insurance-requirements",
+      "best-public-liability-insurance",
+      "employers-liability-vs-public-liability"
+    ]
+  },
+  {
+    "slug": "professional-indemnity-insurance",
+    "title": "Professional Indemnity Insurance UK",
+    "keyword": "Professional Indemnity Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "professional-indemnity-insurance-cost",
+      "professional-indemnity-insurance-quote",
+      "professional-indemnity-insurance-requirements",
+      "best-professional-indemnity-insurance",
+      "public-vs-professional-indemnity",
+      "contractor-insurance"
+    ]
+  },
+  {
+    "slug": "employers-liability-insurance",
+    "title": "Employers' Liability Insurance UK",
+    "keyword": "Employers Liability Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "employers-liability-insurance-cost",
+      "employers-liability-insurance-requirements",
+      "employers-liability-vs-public-liability",
+      "small-business-insurance",
+      "business-insurance",
+      "public-liability-insurance"
+    ]
+  },
+  {
+    "slug": "professional-indemnity-insurance-requirements",
+    "title": "Professional Indemnity Insurance Requirements UK",
+    "keyword": "Professional Indemnity Insurance Requirements UK",
+    "tier": "B",
+    "cluster": [
+      "professional-indemnity-insurance",
+      "professional-indemnity-insurance-cost",
+      "contractor-insurance-requirements",
+      "public-liability-insurance-requirements",
+      "employers-liability-insurance-requirements",
+      "sole-trader-insurance"
+    ]
+  },
+  {
+    "slug": "employers-liability-insurance-requirements",
+    "title": "Employers' Liability Insurance Requirements UK",
+    "keyword": "Employers Liability Insurance Requirements UK",
+    "tier": "B",
+    "cluster": [
+      "employers-liability-insurance",
+      "employers-liability-insurance-cost",
+      "employers-liability-vs-public-liability",
+      "small-business-insurance",
+      "business-insurance",
+      "sole-trader-insurance"
+    ]
+  },
+  {
+    "slug": "employers-liability-vs-public-liability",
+    "title": "Employers' Liability vs Public Liability Insurance UK",
+    "keyword": "Employers Liability vs Public Liability",
+    "tier": "B",
+    "cluster": [
+      "employers-liability-insurance",
+      "public-liability-insurance",
+      "employers-liability-insurance-cost",
+      "public-liability-insurance-cost",
+      "small-business-insurance",
+      "business-insurance"
+    ]
+  },
+  {
+    "slug": "tradesman-insurance",
+    "title": "Tradesman Insurance UK",
+    "keyword": "Tradesman Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "tradesman-insurance-cost",
+      "tradesman-insurance-quote",
+      "best-tradesman-insurance",
+      "tradesman-insurance-coverage",
+      "tradesman-insurance-requirements",
+      "public-liability-insurance"
+    ]
+  },
+  {
+    "slug": "business-insurance",
+    "title": "Business Insurance UK",
+    "keyword": "Business Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "business-insurance-cost",
+      "business-insurance-quote",
+      "small-business-insurance",
+      "commercial-insurance",
+      "public-liability-insurance",
+      "professional-indemnity-insurance"
+    ]
+  },
+  {
+    "slug": "plumber-insurance",
+    "title": "Plumber Insurance UK",
+    "keyword": "Plumber Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "plumber-insurance-cost",
+      "plumber-insurance-quote",
+      "best-plumber-insurance",
+      "plumber-insurance-requirements",
+      "tradesman-insurance",
+      "public-liability-insurance"
+    ]
+  },
+  {
+    "slug": "plumber-insurance-requirements",
+    "title": "Plumber Insurance Requirements UK",
+    "keyword": "Plumber Insurance Requirements UK",
+    "tier": "B",
+    "cluster": [
+      "plumber-insurance",
+      "plumber-insurance-cost",
+      "electrician-insurance-requirements",
+      "contractor-insurance-requirements",
+      "tradesman-insurance-requirements",
+      "public-liability-insurance-requirements"
+    ]
+  },
+  {
+    "slug": "electrician-insurance",
+    "title": "Electrician Insurance UK",
+    "keyword": "Electrician Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "electrician-insurance-cost",
+      "electrician-insurance-quote",
+      "best-electrician-insurance",
+      "electrician-insurance-requirements",
+      "tradesman-insurance",
+      "public-liability-insurance"
+    ]
+  },
+  {
+    "slug": "electrician-insurance-requirements",
+    "title": "Electrician Insurance Requirements UK",
+    "keyword": "Electrician Insurance Requirements UK",
+    "tier": "B",
+    "cluster": [
+      "electrician-insurance",
+      "electrician-insurance-cost",
+      "plumber-insurance-requirements",
+      "contractor-insurance-requirements",
+      "tradesman-insurance-requirements",
+      "public-liability-insurance-requirements"
+    ]
+  },
+  {
+    "slug": "builder-insurance",
+    "title": "Builder Insurance UK",
+    "keyword": "Builder Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "tradesman-insurance",
+      "public-liability-insurance",
+      "employers-liability-insurance",
+      "contractor-insurance",
+      "carpenter-insurance",
+      "roofer-insurance"
+    ]
+  },
+  {
+    "slug": "shop-insurance",
+    "title": "Shop Insurance UK",
+    "keyword": "Shop Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "shop-insurance-cost",
+      "retail-insurance",
+      "commercial-property-insurance",
+      "business-interruption-insurance",
+      "public-liability-insurance",
+      "commercial-insurance"
+    ]
+  },
+  {
+    "slug": "pub-insurance",
+    "title": "Pub Insurance UK",
+    "keyword": "Pub Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "pub-insurance-cost",
+      "restaurant-insurance",
+      "commercial-property-insurance",
+      "business-interruption-insurance",
+      "public-liability-insurance",
+      "employers-liability-insurance"
+    ]
+  },
+  {
+    "slug": "restaurant-insurance",
+    "title": "Restaurant Insurance UK",
+    "keyword": "Restaurant Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "restaurant-insurance-cost",
+      "pub-insurance",
+      "retail-insurance",
+      "commercial-property-insurance",
+      "public-liability-insurance",
+      "business-interruption-insurance"
+    ]
+  },
+  {
+    "slug": "landlord-insurance",
+    "title": "Landlord Insurance UK",
+    "keyword": "Landlord Insurance UK",
+    "tier": "B",
+    "cluster": [
+      "landlord-insurance-cost",
+      "best-landlord-insurance",
+      "commercial-landlord-insurance",
+      "commercial-property-insurance",
+      "public-liability-insurance",
+      "building-insurance"
+    ]
+  },
+  {
+    "slug": "public-liability-insurance-requirements",
+    "title": "Public Liability Insurance Requirements UK",
+    "keyword": "Public Liability Insurance Requirements UK",
+    "tier": "C",
+    "cluster": [
+      "public-liability-insurance",
+      "public-liability-insurance-cost",
+      "public-liability-insurance-coverage",
+      "tradesman-insurance-requirements",
+      "contractor-insurance-requirements",
+      "electrician-insurance-requirements"
+    ]
+  },
+  {
+    "slug": "public-liability-insurance-coverage",
+    "title": "What Does Public Liability Insurance Cover UK",
+    "keyword": "What Does Public Liability Insurance Cover",
+    "tier": "C",
+    "cluster": [
+      "public-liability-insurance",
+      "public-liability-insurance-cost",
+      "public-liability-insurance-requirements",
+      "tradesman-insurance-coverage",
+      "public-vs-professional-indemnity",
+      "employers-liability-vs-public-liability"
+    ]
+  },
+  {
+    "slug": "public-vs-professional-indemnity",
+    "title": "Public Liability vs Professional Indemnity Insurance UK",
+    "keyword": "Public Liability vs Professional Indemnity",
+    "tier": "C",
+    "cluster": [
+      "public-liability-insurance",
+      "professional-indemnity-insurance",
+      "public-liability-insurance-cost",
+      "professional-indemnity-insurance-cost",
+      "best-public-liability-insurance",
+      "best-professional-indemnity-insurance"
+    ]
+  },
+  {
+    "slug": "tradesman-insurance-requirements",
+    "title": "Tradesman Insurance Requirements UK",
+    "keyword": "Tradesman Insurance Requirements UK",
+    "tier": "C",
+    "cluster": [
+      "tradesman-insurance",
+      "tradesman-insurance-cost",
+      "tradesman-insurance-coverage",
+      "plumber-insurance-requirements",
+      "electrician-insurance-requirements",
+      "contractor-insurance-requirements"
+    ]
+  },
+  {
+    "slug": "tradesman-insurance-coverage",
+    "title": "What Does Tradesman Insurance Cover UK",
+    "keyword": "What Does Tradesman Insurance Cover",
+    "tier": "C",
+    "cluster": [
+      "tradesman-insurance",
+      "tradesman-insurance-cost",
+      "tradesman-insurance-requirements",
+      "public-liability-insurance-coverage",
+      "builder-insurance",
+      "carpenter-insurance"
+    ]
+  },
+  {
+    "slug": "contractor-insurance",
+    "title": "Contractor Insurance UK",
+    "keyword": "Contractor Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "contractor-insurance-cost",
+      "contractor-insurance-requirements",
+      "professional-indemnity-insurance",
+      "public-liability-insurance",
+      "business-insurance",
+      "small-business-insurance"
+    ]
+  },
+  {
+    "slug": "contractor-insurance-requirements",
+    "title": "Contractor Insurance Requirements UK",
+    "keyword": "Contractor Insurance Requirements UK",
+    "tier": "C",
+    "cluster": [
+      "contractor-insurance",
+      "contractor-insurance-cost",
+      "professional-indemnity-insurance-requirements",
+      "public-liability-insurance-requirements",
+      "tradesman-insurance-requirements",
+      "business-insurance"
+    ]
+  },
+  {
+    "slug": "sole-trader-insurance",
+    "title": "Sole Trader Insurance UK",
+    "keyword": "Sole Trader Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "self-employed-insurance",
+      "small-business-insurance",
+      "business-insurance",
+      "public-liability-insurance",
+      "professional-indemnity-insurance",
+      "tradesman-insurance"
+    ]
+  },
+  {
+    "slug": "self-employed-insurance",
+    "title": "Self-Employed Insurance UK",
+    "keyword": "Self Employed Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "sole-trader-insurance",
+      "small-business-insurance",
+      "business-insurance",
+      "public-liability-insurance",
+      "professional-indemnity-insurance",
+      "tradesman-insurance"
+    ]
+  },
+  {
+    "slug": "small-business-insurance",
+    "title": "Small Business Insurance UK",
+    "keyword": "Small Business Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "business-insurance",
+      "business-insurance-cost",
+      "small-business-insurance-cost",
+      "public-liability-insurance",
+      "employers-liability-insurance",
+      "professional-indemnity-insurance"
+    ]
+  },
+  {
+    "slug": "carpenter-insurance",
+    "title": "Carpenter Insurance UK",
+    "keyword": "Carpenter Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "tradesman-insurance",
+      "builder-insurance",
+      "public-liability-insurance",
+      "handyman-insurance",
+      "roofer-insurance",
+      "painter-decorator-insurance"
+    ]
+  },
+  {
+    "slug": "handyman-insurance",
+    "title": "Handyman Insurance UK",
+    "keyword": "Handyman Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "tradesman-insurance",
+      "carpenter-insurance",
+      "plumber-insurance",
+      "electrician-insurance",
+      "public-liability-insurance",
+      "builder-insurance"
+    ]
+  },
+  {
+    "slug": "roofer-insurance",
+    "title": "Roofer Insurance UK",
+    "keyword": "Roofer Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "tradesman-insurance",
+      "builder-insurance",
+      "public-liability-insurance",
+      "carpenter-insurance",
+      "painter-decorator-insurance",
+      "handyman-insurance"
+    ]
+  },
+  {
+    "slug": "painter-decorator-insurance",
+    "title": "Painter and Decorator Insurance UK",
+    "keyword": "Painter and Decorator Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "tradesman-insurance",
+      "builder-insurance",
+      "public-liability-insurance",
+      "carpenter-insurance",
+      "handyman-insurance",
+      "roofer-insurance"
+    ]
+  },
+  {
+    "slug": "retail-insurance",
+    "title": "Retail Insurance UK",
+    "keyword": "Retail Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "shop-insurance",
+      "shop-insurance-cost",
+      "commercial-property-insurance",
+      "business-interruption-insurance",
+      "public-liability-insurance",
+      "commercial-insurance"
+    ]
+  },
+  {
+    "slug": "commercial-insurance",
+    "title": "Commercial Insurance UK",
+    "keyword": "Commercial Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "business-insurance",
+      "small-business-insurance",
+      "commercial-property-insurance",
+      "commercial-vehicle-insurance",
+      "public-liability-insurance",
+      "professional-indemnity-insurance"
+    ]
+  },
+  {
+    "slug": "commercial-landlord-insurance",
+    "title": "Commercial Landlord Insurance UK",
+    "keyword": "Commercial Landlord Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "landlord-insurance",
+      "commercial-property-insurance",
+      "landlord-insurance-cost",
+      "best-landlord-insurance",
+      "public-liability-insurance",
+      "business-insurance"
+    ]
+  },
+  {
+    "slug": "commercial-property-insurance",
+    "title": "Commercial Property Insurance UK",
+    "keyword": "Commercial Property Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "commercial-insurance",
+      "commercial-landlord-insurance",
+      "business-interruption-insurance",
+      "shop-insurance",
+      "pub-insurance",
+      "landlord-insurance"
+    ]
+  },
+  {
+    "slug": "commercial-vehicle-insurance",
+    "title": "Commercial Vehicle Insurance UK",
+    "keyword": "Commercial Vehicle Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "commercial-insurance",
+      "fleet-insurance",
+      "business-insurance",
+      "public-liability-insurance",
+      "tradesman-insurance",
+      "contractor-insurance"
+    ]
+  },
+  {
+    "slug": "business-interruption-insurance",
+    "title": "Business Interruption Insurance UK",
+    "keyword": "Business Interruption Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "commercial-insurance",
+      "commercial-property-insurance",
+      "shop-insurance",
+      "pub-insurance",
+      "restaurant-insurance",
+      "small-business-insurance"
+    ]
+  },
+  {
+    "slug": "fleet-insurance",
+    "title": "Fleet Insurance UK",
+    "keyword": "Fleet Insurance UK",
+    "tier": "C",
+    "cluster": [
+      "commercial-vehicle-insurance",
+      "commercial-insurance",
+      "business-insurance",
+      "public-liability-insurance",
+      "small-business-insurance",
+      "tradesman-insurance"
+    ]
+  },
+  {
+    "slug": "tradesman-insurance-faq",
+    "title": "Tradesman Insurance FAQ UK",
+    "keyword": "Tradesman Insurance FAQ UK",
+    "tier": "C",
+    "cluster": [
+      "tradesman-insurance",
+      "tradesman-insurance-cost",
+      "tradesman-insurance-coverage",
+      "tradesman-insurance-requirements",
+      "public-liability-insurance",
+      "employers-liability-insurance"
+    ]
+  }
+]
